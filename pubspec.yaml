@@ -1,0 +1,11 @@
+name: darttest
+version: 0.0.1
+author: Robert <email@robertdewilde.nl>
+description: Test
+dependencies:
+  rpc: 0.5.6
+  http2: 0.1.1+1
+  postgresql: 0.3.3
+
+dev_dependencies:
+#  discoveryapis_generator: 0.8.0+1
